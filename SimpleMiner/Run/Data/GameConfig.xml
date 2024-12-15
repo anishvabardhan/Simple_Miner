@@ -1,0 +1,7 @@
+<GameConfig
+	worldSeed="3"
+	autoCreateChunks="true"
+	chunkActivationDistance="250"
+	saveModifiedChunks="true"
+/>
+
