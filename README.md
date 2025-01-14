@@ -9,14 +9,20 @@
 
 ## How to use<br>
 #### *THE KEYBOARD CONTROLS:-*<br>
-E key to thrust.<br> 
-S and F key for rotating left or right.<br> SPACE key to shoot bullet.<br>
-P for Pause.(toggle key)<br>
-F8 for new game.(only works in game state and game restarts in game state).<br>
 
-Debugger Options F1(toggle key)<br>
-T for slow-Mo.(needs to be pressed down)<br>
-N for respawn when you loose a life.<br>
+#### Movement controls:<br>
+
+1. W and S key to move in the forward and backward direction.<br> 
+2. A and D key to move left or right.<br>
+3. Q and E key to move up or down.<br>
+4. Z and C key to roll camera left and right.<br>
+
+#### Digging and placing blocks controls:<br>
+
+1. LEFT MOUSE BUTTON to dig block.<br>
+2. RIGHT MOUSE BUTTON to place block.<br>
+3. Press 1 key to select stone block.<br>
+4. Press 2 key to select glowstone block.<br>
 
 ## How to run the application:-<br>
 
