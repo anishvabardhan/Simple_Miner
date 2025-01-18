@@ -1,11 +1,6 @@
 ![Screenshot 2025-01-14 144021](https://github.com/user-attachments/assets/9cc1c813-9004-44a5-9473-e2c4c7ec0ad6)<br>
 
-## Known issues
-
-1. In some instances, the application may not generate the world as expected. Although the chunk logic is correct and functions properly under normal circumstances, this issue occasionally occurs for reasons that are currently unclear. If this happens, please relaunch the application to resolve the issue.<br>
-2. The foliage, specifically the trees, does not generate leaves at all. This is because the logic for leaf generation has not been implemented. As a result, only the trunks are generated. Further development is needed to include the functionality for generating leaves.<br>
-
-======================================================
+​A Minecraft-inspired tech demo was developed to explore procedural generation techniques and their applications in game development. The project focused on implementing procedural concepts to create dynamic environments, laying a foundation for more advanced systems in future projects.
 
 ## How to use<br>
 #### *THE KEYBOARD CONTROLS:-*<br>
@@ -43,3 +38,10 @@ Method 2(for advanced users):-
 	NOTE:- 	
 		* Visual Studio 2022 must be installed on the system.
 		* In step 5 mentioned above, if you want you can execute the program with the debugger too.
+
+  ## Known issues
+
+1. In some instances, the application may not generate the world as expected. Although the chunk logic is correct and functions properly under normal circumstances, this issue occasionally occurs for reasons that are currently unclear. If this happens, please relaunch the application to resolve the issue.<br>
+2. The foliage, specifically the trees, does not generate leaves at all. This is because the logic for leaf generation has not been implemented. As a result, only the trunks are generated. Further development is needed to include the functionality for generating leaves.<br>
+
+======================================================
